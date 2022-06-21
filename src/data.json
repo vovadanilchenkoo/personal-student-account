@@ -1,0 +1,35 @@
+{
+  "courses": [
+    "course 1",
+    "course 2",
+    "course 3",
+    "course 4"
+  ],
+  "topics": [
+    {
+      "name": "Math",
+      "description": "Some lecture regarding Math",
+      "date": "06/01/22",
+      "type": "lecture or practical session",
+      "note": ""
+    },{
+      "name": "English",
+      "description": "Let's learn some English",
+      "date": "05/28/22",
+      "type": "lecture or practical session",
+      "note": ""
+    },{
+      "name": "Computer science",
+      "description": "Will learn JS",
+      "date": "06/21/22",
+      "type": "lecture or practical session",
+      "note": ""
+    },{
+      "name": "Finance",
+      "description": "Personal finance skills",
+      "date": "07/11/22",
+      "type": "lecture or practical session",
+      "note": ""
+    }
+  ]
+}
